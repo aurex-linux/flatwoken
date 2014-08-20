@@ -1,0 +1,14 @@
+Source: flatwoken-icon-theme
+Section: universe/x11
+Priority: optional
+Maintainer: Luis Garcia <luisgg@gmail.com>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 7.0.50~)
+
+Package: flatwoken-icon-theme
+Architecture: all
+Depends: ${misc:Depends}, libgtk2.0-bin
+Description: FlatWoken Icon Theme
+ *FlatWoken* project is derived from the popular *AwOken* icon theme.
+ It's freely inspired by its minimalist approach, even though it is basically a 
+ revision with an eye toward flat design. 

@@ -1,0 +1,19 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Contact: Alessandro Roncone <alecive87@gmail.com>
+Source: https://github.com/alecive/FlatWoken
+
+Files: *
+Copyright: Copyright © 2013-2014 Alessandro Roncone
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+ To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/legalcode or send a letter
+ to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+Files: debian/*
+Copyright: Copyright 2014 Luis Antonio Garcia Gisbert <luisgg@gmail.com>
+License: GPL-3+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 3, or (at your option)
+ any later version.
+ on any Debian system you can find a copy of the newest GNU GPL at
+ '/usr/share/common-licenses/GPL'
